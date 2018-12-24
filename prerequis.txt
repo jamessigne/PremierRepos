@@ -1,3 +1,5 @@
 Pour réaliser un site simple il faut connaitre :
 -html
 -css
+
+Après recherche je me rends compte qu'il faut aussi du javascript pour dynamiser mes pages donc connaitre javascript devient un prérequis
