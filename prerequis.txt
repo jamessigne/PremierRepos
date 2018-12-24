@@ -1,0 +1,3 @@
+Pour réaliser un site simple il faut connaitre :
+-html
+-css
